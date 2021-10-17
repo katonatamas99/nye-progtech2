@@ -50,7 +50,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        hu.nye.progtech.sudoku.Main
+                                        hu.nye.progtech.torpedo.Main
                                     </mainClass>
                                 </manifest>
                             </archive>
